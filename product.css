@@ -33,6 +33,14 @@ ul {
   list-style: none;
 }
 
+nav ul li a {
+  color: var(--primary);
+}
+
+nav ul li a:hover {
+  cursor: pointer;
+}
+
 nav li {
   padding: 100% 0;
 }
