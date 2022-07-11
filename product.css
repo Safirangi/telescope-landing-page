@@ -4,6 +4,7 @@
   --primary: #adb5bd;
   --secondary: #212529;
   --tertiary: #fff;
+  --quatenary: #333533;
   --font: "Dosis", sans-serif;
 }
 
@@ -13,6 +14,10 @@
   font-family: var(--font);
   box-sizing: border-box;
   scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--quatenary);
 }
 
 .side-nav {
