@@ -14,3 +14,7 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+li i {
+  size: 40%;
+}
