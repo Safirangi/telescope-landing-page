@@ -3,6 +3,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: var(--font);
 }
 
 :root {
@@ -35,7 +36,6 @@ ul li a {
   padding: 0 2em;
   color: #ccc;
   text-decoration: none;
-  font-family: "Dosis", sans-serif;
 }
 ul li a:hover {
   color: #fff;
@@ -59,7 +59,6 @@ ul li a:hover {
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-family: "Dosis", sans-serif;
   flex-direction: column;
 }
 .header p {
@@ -67,7 +66,6 @@ ul li a:hover {
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-family: "Dosis", sans-serif;
   font-size: 1em;
   flex-direction: column;
 }
@@ -83,7 +81,6 @@ ul li a:hover {
   padding: 5px 10px;
   width: 12em;
   margin: 1em 0;
-  font-family: "Dosis", sans-serif;
   border-radius: 0.25em;
   border: 1px solid #ddd;
 }
@@ -93,7 +90,6 @@ ul li a:hover {
 #submit {
   padding: 6px 8px;
   margin: 1em 0.5em;
-  font-family: "Dosis", sans-serif;
   color: #eee;
   background-color: #222;
   border: none;
@@ -115,7 +111,6 @@ ul li a:hover {
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-family: "Dosis", sans-serif;
   font-size: 1em;
   display: inline-flex;
   justify-content: center;
@@ -134,25 +129,21 @@ ul li a:hover {
   border-top: none;
 }
 #Reflector h2 {
-  font-family: "Dosis", sans-serif;
   margin: 2em auto;
   text-align: center;
   padding: 1em;
 }
 #Reflector p {
-  font-family: "Dosis", sans-serif;
   margin: 1em auto;
   text-align: justify;
   padding: 1em 6em;
 }
 #Refractor h2 {
-  font-family: "Dosis", sans-serif;
   margin: 2em auto;
   text-align: center;
   padding: 1em;
 }
 #Refractor p {
-  font-family: "Dosis", sans-serif;
   margin: 1em auto;
   text-align: justify;
   padding: 1em 6em;
@@ -180,7 +171,6 @@ ul li a:hover {
 .card-content {
   padding: 2em;
   margin: 0.5em auto;
-  font-family: "Dosis", sans-serif;
   font-size: 15px;
 }
 .card-content a {
@@ -189,7 +179,6 @@ ul li a:hover {
   color: #000;
   text-decoration: none;
   padding-bottom: 5px;
-  font-family: "Dosis", sans-serif;
   margin: 0 auto;
 }
 .card-content a:hover {
@@ -236,7 +225,6 @@ ul li a:hover {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  font-family: "Dosis", sans-serif;
 }
 #how-it-works {
   display: flex;
@@ -263,7 +251,6 @@ ul li a:hover {
   border-radius: 0.5em;
   background-color: #fff;
   color: #111;
-  font-family: "Dosis", sans-serif;
   justify-content: center;
   text-align: center;
   padding: 2em 200px;
@@ -280,13 +267,11 @@ ul li a:hover {
   width: 20em;
 }
 .stores h5 {
-  font-family: "Dosis", sans-serif;
   text-align: center;
   font-size: 1em;
   padding: 1em;
 }
 .stores h4 {
-  font-family: "Dosis", sans-serif;
   text-align: center;
   font-size: 1.2em;
   padding: 1em;
@@ -294,7 +279,6 @@ ul li a:hover {
 .stores ul li {
   background-color: #fff;
   border-radius: 0.5em;
-  font-family: "Dosis", sans-serif;
   padding: 1em;
   text-align: justify;
 }
