@@ -233,7 +233,7 @@ ul li a:hover {
   width: 20em;
 }
 @media (min-height: 350px) {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
 }
 .features ul {
   display: grid;
