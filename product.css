@@ -15,6 +15,28 @@
   scroll-behavior: smooth;
 }
 
+.side-nav {
+  height: 100%;
+  width: 4%;
+  background-color: var(--secondary);
+  color: var(--primary);
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  border-radius: 0 0.2em 0.2em 0;
+}
+
+ul {
+  list-style: none;
+}
+
+nav li {
+  padding: 100% 0;
+}
+
 li i {
-  size: 40%;
+  size: 50%;
 }
