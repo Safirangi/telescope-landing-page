@@ -49,13 +49,6 @@ nav ul li a:hover {
   color: var(--tertiary);
 }
 
-.bi-hash {
-  display: flex;
-  align-self: flex-start;
-  justify-content: flex-start;
-  align-content: flex-start;
-}
-
 nav li {
   padding: 100% 0;
 }
