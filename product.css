@@ -52,3 +52,7 @@ nav ul li a:hover {
 nav li {
   padding: 100% 0;
 }
+
+header {
+  color: var(--primary);
+}
