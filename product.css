@@ -55,4 +55,6 @@ nav li {
 
 header {
   color: var(--primary);
+  position: relative;
+  margin: 1% 0 0 6%;
 }
